@@ -2,7 +2,7 @@
 
 ## Préparer le stage
 
-- Rédiger une note détaillant le plus possible sujet de stage, mis en parallèle avec les compétences du référentiel.
+- Rédiger une note détaillant le plus possible le sujet de stage, mis en parallèle avec les compétences du référentiel.
 
 - Présenter une ébauche de sommaire pour le rapport de stage.
 
