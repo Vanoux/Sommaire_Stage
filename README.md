@@ -8,12 +8,19 @@
 
 - Dresser la liste des livrables.
 
-- Pour cela, bien potasser le RC et le REAC.
-
-- Potasser les technos qui seront utilisées pendant le stage.
+Pour cela, bien potasser le RC et le REAC. Potasser les technos qui seront utilisées pendant le stage.
 
 
 Rendu jeudi soir minuit sur simplonline.
 Présentation vendredi matin.
 
-### Lien wiki du travail :
+## Lien wiki du travail
+
+### Compétences du référentiel REAC couvertes par le sujet du stage :
+https://github.com/Vanoux/Sommaire_Stage/wiki/1-Comp%C3%A9tences-du-r%C3%A9f%C3%A9rentiel-REAC-couvertes-par-le-sujet-du-stage
+
+### Ebauche de Sommaire pour le rapport de stage : 
+https://github.com/Vanoux/Sommaire_Stage/wiki/2-Ebauche-de-Sommaire-pour-le-rapport-de-stage
+
+###  Liste des livrables : 
+https://github.com/Vanoux/Sommaire_Stage/wiki/3--Liste-des-livrables
