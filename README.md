@@ -16,11 +16,11 @@ Présentation vendredi matin.
 
 ## Lien wiki du travail
 
-### Compétences du référentiel REAC couvertes par le sujet du stage :
-https://github.com/Vanoux/Sommaire_Stage/wiki/1-Comp%C3%A9tences-du-r%C3%A9f%C3%A9rentiel-REAC-couvertes-par-le-sujet-du-stage
-
 ### Ebauche de Sommaire pour le rapport de stage : 
 https://github.com/Vanoux/Sommaire_Stage/wiki/2-Ebauche-de-Sommaire-pour-le-rapport-de-stage
+
+### Compétences du référentiel REAC couvertes par le sujet du stage :
+https://github.com/Vanoux/Sommaire_Stage/wiki/1-Comp%C3%A9tences-du-r%C3%A9f%C3%A9rentiel-REAC-couvertes-par-le-sujet-du-stage
 
 ###  Liste des livrables : 
 https://github.com/Vanoux/Sommaire_Stage/wiki/3--Liste-des-livrables
